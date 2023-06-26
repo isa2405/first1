@@ -1,16 +1,16 @@
-h1 {color: rgba(221, 13, 93, 0);}
+h1 {color: #000000;}
 h1 {font-size: 150%;}
 h2{text-align: center;}
-h2{border: solid 3px #41040400;}
+h2{border: solid 3px #000000;}
 #imal{margin: left 30%;}
 #imal2{width: 40%;}
 <i>{font-size: 60%;}
 <i>{text-align: center 50%;}
 #imal2{margin:left 50%;}
- i{color: rgba(224, 59, 100, 0);}
- h4{border:solid 3px #00000000 ;}
- i{border: solid 3px #00000000 ;}
- h3{border:solid 3px #00000000;}
+ i{color: rgb(24, 3, 8);}
+ h4{border:solid 3px #000000fb ;}
+ i{border: solid 3px #000000 ;}
+ h3{border:solid 3px #000000;}
  #imal2{margin-left: center;}
  <i>{font-size: 60%;}
  <i>{text-align:center;}
