@@ -1,16 +1,16 @@
 h1 {color: #000000;}
 h1 {font-size: 150%;}
 h2{text-align: center;}
-h2{border: solid 3px #000000;}
+h2{border: solid 3px #ffffff;}
 #imal{margin: left 30%;}
 #imal2{width: 40%;}
 i{font-size: 80%;}
 i{text-align: center 50%}
 #imal2{margin:left 50%;}
  i{color: rgb(24, 3, 8);}
- h4{border:solid 3px #000000fb ;}
- i{border: solid 3px #000000 ;}
- h3{border:solid 3px #000000;}
+ h4{border:solid 3px #fffffffb ;}
+ i{border: solid 3px #fff7f7 ;}
+ h3{border:solid 3px rgb(255, 255, 255)c;}
  #imal2{margin-left: center;}
  i{font-size: 80%;}
  i{text-align:center;}
